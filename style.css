@@ -1,0 +1,15 @@
+#update{
+    display: none;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px 120px;
+}
+
+#paragraph{
+    color:red;
+}
+
